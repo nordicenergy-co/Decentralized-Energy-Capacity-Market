@@ -1,2 +1,2 @@
-# net.github.io
+# nordicenergy.github.io
 Nordic Energy Ecosystem for Node JS
