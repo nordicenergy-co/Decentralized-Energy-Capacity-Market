@@ -1,2 +1,2 @@
-# corrently.github.io
-Corrently Ecosystem for Node JS
+# net.github.io
+Nordic Energy Ecosystem for Node JS
