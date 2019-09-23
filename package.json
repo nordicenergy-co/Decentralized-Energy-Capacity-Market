@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>{ "name": "NordicEnergy-Developer", "version": "1.0.0", "description": "Development Ressources for Nordic Energy", "license": "ISC", "author": "corrently corp", "main": "index.js", "repository": { "type": "git", "url": "https://github.com/powerchain/nordicenergy.github.io.git" }, "scripts": { "test": "echo \\\"Error: no test specified\\\" &amp;&amp; exit 1" }, "dependencies": { "correntlywallet": "^1.0.3" }, "devDependencies": { "browser-sync": "^2.24.5", "del": "^3.0.0", "gulp": "^3.9.1", "gulp-autoprefixer": "^4.1.0", "gulp-concat": "^2.6.1", "gulp-cssmin": "^0.2.0", "gulp-html-replace": "^1.6.2", "gulp-rename": "^1.2.2", "gulp-sass": "^3.2.1", "gulp-sourcemaps": "^2.6.4", "gulp-uglify": "^3.0.0" } } <pingendo onclick="window.open('https://pingendo.com/', '_blank')" style="cursor:pointer;position: fixed;bottom: 20px;right:20px;padding:4px;background-color: #00b0eb;border-radius: 8px; width:220px;display:flex;flex-direction:row;align-items:center;justify-content:center;font-size:14px;color:white">Made with Pingendo Free&nbsp;&nbsp;<img src="https://pingendo.com/site-assets/Pingendo_logo_big.png" class="d-block" alt="Pingendo logo" height="16"></pingendo>
+</body>
+
+</html>
