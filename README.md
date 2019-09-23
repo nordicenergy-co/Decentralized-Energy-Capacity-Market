@@ -31,9 +31,9 @@ In contrast to platform approaches (e.g. putting a wind-mill on a platform and g
 As a remote-communicating digital electricity meter, they enable direct transmission of measured values to consumers, network operators, energy suppliers and energy service providers. The consumer receives a precise visualization of his consumption behavior and sees every "wasted" kilowatt hour. This can motivate him to energy-saving behavior. On the other hand, intelligent metering systems allow the implementation of variable tariffs in which the consumer receives economic incentives to use electricity when it is cheapest. In addition, intelligent measuring systems enable network operators to have a precise view of their power grid, enabling them to control generation and consumption systems.
 
 
-
-#### ELECTRICITY POLICE
 #
+#### ELECTRICITY POLICE
+
 - End consumer: Transparency and efficiency increase through visualization.
 - Electricity supplier: Optimization of procurement also needs recognition.
 - Network operators: Higher operational reliability through data.
