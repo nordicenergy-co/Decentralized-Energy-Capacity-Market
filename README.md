@@ -1,5 +1,5 @@
 
-# Ethereum Blockchain-based Decentralized Energy Capacity Market
+# Blockchain-based Decentralized Energy Capacity Market
 
 ### Our platform provides a flexible renewable energy company fundraising, which saves time, effort and delivers higher returns to the renewable energy generation facility developers, energy industries and our customers.
 
